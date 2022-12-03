@@ -1,4 +1,6 @@
-# House_prediction_shack_labs
+# shack_labs_intern_projects
+
+# House_price_Prediction
 The goal is to understand the relationship between house features and how these variables affect the house price. Using more than one model, predict the price of the house using the given dataset. Please compare the accuracy of the models along with the drawbacks of each technique's assumptions before recommending the final prediction model
 The goal is to understand the relationship between house features and how these variables affect house prices. 
 Task Performed: 
@@ -25,7 +27,7 @@ Hyper-Parameter tuning using RandomSearchCV on:
   =>Random Forest Regessor   
  10. Summary
 
-#Product Matching program
+# Product Matching program
 
 Problem Statement :
 
